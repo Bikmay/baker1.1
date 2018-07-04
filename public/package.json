@@ -1,0 +1,22 @@
+{
+  "name": "bakery",
+  "version": "0.1.0",
+  "description": "no",
+  "main": "index.js",
+  "scripts": {
+    "test": "grob"
+  },
+  "repository": {
+    "type": "git",
+    "url": "bakery"
+  },
+  "keywords": [
+    "pie",
+    "bakery"
+  ],
+  "author": "bikmay",
+  "license": "ISC",
+  "dependencies": {
+    "express": "^4.16.3"
+  }
+}

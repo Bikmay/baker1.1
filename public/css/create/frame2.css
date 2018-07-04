@@ -1,0 +1,55 @@
+.header{
+
+    height: 10vw;
+    width: 30vw;
+
+    position:  relative;
+
+}
+
+.t{
+
+    height: 2vw;
+    width: 0.2vw;
+
+    position: absolute;
+
+    background-color: black;
+    display: inline-block;
+
+    margin-top: 2.3vw;
+    margin-left: 23vw;
+}
+
+.yt{
+
+    font-family: 'Roboto', sans-serif;
+    font-size: 2vw;
+
+    position: absolute;
+
+    margin-top: 2vw;
+    margin-left: 3vw;
+
+}
+.yr{
+
+    font-family: 'Roboto', sans-serif;
+    font-size: 1.8vw;
+
+    position: absolute;
+
+    margin-top: 2.3vw;
+    margin-left: 24vw;
+
+}
+
+.img-header{
+    margin-left: 28vw;
+    margin-top: 2.65vw;
+}
+
+.e{
+    height:3vw;
+    width: 10vw;
+}

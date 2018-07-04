@@ -1,0 +1,266 @@
+.frame05-general-div{
+    background: #563539;
+
+    width: 100%;
+    height: 16vh;
+
+}
+
+.frame05-general-div p{
+
+    font-family: 'Roboto', sans-serif;
+    font-weight: bold;
+
+    font-size: 3vmax;
+    color: white;
+
+    margin-top: 1vh;
+    margin-left: 1vh;
+}
+
+body{
+    font-family: 'Roboto', sans-serif;
+    font-style: normal;
+    font-weight: normal;
+    line-height: normal;
+    font-size: 19px;
+
+
+}
+
+.row1 {
+    height: 100vh;
+    background: white;
+    padding: 0;
+}
+
+.sections {
+    position: absolute;
+    width: 100%;
+    height: 97px;
+    left: 15px;
+    top: 0px;
+
+    margin-left: 0vh;
+    margin-right: 0vh;
+}
+.rec {
+
+    position: absolute;
+    width: 100%;
+    height: 3vmax;
+
+
+    background: #FFFFFF;
+    border: 1px solid rgba(182, 182, 182, 0.59);
+    box-sizing: border-box;
+    box-shadow: 0px 1px 0px rgba(0, 0, 0, 0.25);
+}
+
+
+
+.deca{
+    height: 100vh;
+    background: #d3d9df;
+    padding: 0;
+}
+
+.ria{
+    margin-left: 22vmax;
+    margin-top: 2vmax;
+}
+
+
+
+.th4 input {
+    margin: 1vmax;
+}
+
+.divi p {
+    float: left; /*Задаем обтекание*/
+
+    margin:1vmax;
+}
+
+
+.divi{
+    float: left; /*Задаем обтекание*/
+
+    margin: 1vmax;
+}
+
+
+.bottom-creator-panel{
+
+    position: absolute;
+    bottom: 0;
+
+    width: 100%;
+    height: 2.2vw;
+}
+
+.bottom-creator-panel div{
+
+    height: 100%;
+    width: 49%;
+
+    border: 1px solid #d3d9df;
+    display:inline-block;
+
+}
+
+.bottom-creator-panel p{
+    font-family: 'Roboto', sans-serif;
+    font-weight: lighter;
+
+
+    color:black;
+    margin-top: 0.7vw;
+}
+
+.cont2{
+
+    height: 100vh;
+    background-image: url(images/0.png);
+    background-size: cover;
+
+}
+
+.frame-fr-header {
+    width: 70vw;
+    height: 14vh;
+   padding-top: 2vh;
+    margin-left: 15vw;
+    margin-right: 15vw;
+
+
+}
+
+.frame-fr-header p{
+
+
+    font-family: 'Old Standard TT', serif;
+    font-size: 2.4vw;
+    color: white;
+    margin-top: 3vw;
+
+}
+
+.frame-fr-header ul{
+
+    margin: 0; /* Обнуляем значение отступов */
+    padding: 4px;
+}
+.frame-fr-header li{
+    display:inline-block;
+}
+
+.frame-fr-header-logo{
+    margin-left: 6vw;
+    margin-right: 6vw;
+}
+
+.frame-fr-part1-text{
+    margin-top: 18vh;
+    margin-left: 15vw;
+    margin-bottom: 10vh;
+
+    width: 30vw;
+    height: 66vh;
+
+
+}
+
+
+.frame-fr-part1-text div{
+
+    position: absolute;
+    width: 22vw;
+    height: 5vw;
+    margin-left: 4vw;
+    margin-bottom: 4vh;
+
+    background: #E75252;
+    border-radius: 12px;
+
+}
+
+.frame1-div-text{
+
+    font-size: 4vmax;
+    font-family: 'Roboto', sans-serif;
+
+    margin-top: 2vh;
+    margin-left: 4vw;
+    margin-bottom: 8vh;
+    color: white;
+
+}
+
+.frame1-button-text{
+    font-size:1.6vw;
+    font-family: 'Roboto', sans-serif;
+    margin-left: 1.6vw;
+    margin-top: 1.4vw;
+    color:white;
+
+    font-weight: bold;
+
+}
+
+h2 {
+  color: #002850; font-size: 30px; font-weight: normal;
+  padding: 45px 0 15px;cursor:pointer;
+}
+.accordion {
+  border: 1px solid #ddd; border-top: none;
+  float: left; width: 100%; position: relative;
+}
+.accordion a {
+  display: block; text-decoration: none;
+}
+.accordion h2, .accordion a{
+  background-color: #fff;
+  background-image: url(gradient.jpg);
+  background-image: -moz-linear-gradient(bottom, #f1f1f1, #fff);
+  background-image: -ms-linear-gradient(bottom, #f1f1f1, #fff);
+  background-image: -o-linear-gradient(bottom, #f1f1f1, #fff);
+  background-image: -webkit-linear-gradient(bottom, #f1f1f1, #fff);
+  background-image: linear-gradient(bottom, #f1f1f1, #fff);
+  border-top: 1px solid #ddd;
+  color: #222; font: 14px/30px 'Verdana', sans-serif;
+  height: 30px; margin: 0; padding: 0; text-indent: 10px;
+
+}
+
+
+.sec-accordion h2 .sec-accordion a{
+  background-color: #0069d9;
+  background-image: url(gradient.jpg);
+  background-image: -moz-linear-gradient(bottom, #f1f1f1, #fff);
+  background-image: -ms-linear-gradient(bottom, #f1f1f1, #fff);
+  background-image: -o-linear-gradient(bottom, #f1f1f1, #fff);
+  background-image: -webkit-linear-gradient(bottom, #f1f1f1, #fff);
+  background-image: linear-gradient(bottom, #f1f1f1, #fff);
+
+
+
+  border-top: 1px solid #ddd;
+  color: #222; font: 14px/30px 'Verdana', sans-serif;
+  height: 30px; margin: 0; padding: 0; text-indent: 10px;
+}
+
+.sec-accordion div{
+
+    background-color:#0069d9;
+
+
+}
+
+.sec-accordion {
+    border: 1px solid #ddd; border-top: none; margin: 10px 0;
+    float: left; width: 470px; position: relative;
+}
+.sec-accordion a {
+    display: block; text-decoration: none;
+}
